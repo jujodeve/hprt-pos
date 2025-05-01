@@ -1,16 +1,16 @@
-# Maintainer:  <zhaose233@outlook.com>
+# Maintainer:  <jujodeve@gmail.com>
 pkgname=hprtpos
 pkgver=r1.2.8
 pkgrel=1
 pkgdesc=" CUPS filter for thermal printers HPRT"
 arch=('x86_64')
-url="https://gitlab.com/jotix/hprtpos.git"
+url="https://github.com/jujodeve/hprtpos.git"
 license=('BSD')
 depends=('cups')
 makedepends=('unzip')
 provides=('hprtpos')
 
-source=("git+https://gitlab.com/jotix/hprtpos.git")
+source=("git+https://github.com/jujodeve/hprtpos.git")
 md5sums=('SKIP')
 
 package() {
