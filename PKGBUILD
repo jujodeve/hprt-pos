@@ -7,7 +7,7 @@ arch=('x86_64')
 url="https://github.com/jujodeve/hprtpos.git"
 license=('BSD')
 depends=('cups')
-makedepends=('unzip')
+makedepends=('minizip')
 provides=('hprtpos')
 
 source=("git+https://github.com/jujodeve/hprtpos.git")
