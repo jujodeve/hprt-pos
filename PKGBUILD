@@ -1,6 +1,6 @@
 # Maintainer:  <jujodeve@gmail.com>
 pkgname=hprtpos
-pkgver=r1.2.8
+pkgver=1.2.8
 pkgrel=1
 pkgdesc=" CUPS filter for thermal printers HPRT"
 arch=('x86_64')
